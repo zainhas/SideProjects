@@ -1,2 +1,2 @@
 # SideProjects
-side projects I like to work on from time to time
+- [Basic MNIST Classification with PyTorch](nn_using_torch.ipynb) 🔤
